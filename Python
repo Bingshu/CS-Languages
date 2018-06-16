@@ -1,0 +1,33 @@
+As a programming language, which was released in 1991 by the ingenious Dutch programmer Guido van Rossum, Python provides the proficient programmers the easiest way to code easy applications and web pages; also, it lowers the knowledge and skills requirement for those nonprofessional programming amateurs and those who use Python to perform easy tasks for other professional fields such as biology and environment. 
+    Python is popular for clean and orderly codes structure by reducing the unnecessary use of punctuation symbols and magnifying the importance of indentation.
+
+Comparing with Java, which has strong and wide functions for coding, Python has the obvious advantages:
+Python shortens the coding length. The original goal to design the Python language is to simplify the coding process so that programmers do not have to remember a number of coding styles and the so called ‘grammars’.
+e.g. 
+In Java:    System.out.print(“Hello, world”);
+In Python:  print(‘Hello, world’)
+(When writing a line of code, Java requires a semicolon at the end whereas Python prefers to do nothing. This is because Python would recognize a line of code by finding the Enter mark and indentation. By using indentation as a method to separate code in different sections, Python thereby improves the coding structure and its readability.)
+In Java:   
+int x = 1;
+String y = “Hello, world”¬¬¬
+char z = ‘a’
+
+In Python: 
+x = 1
+y = ‘Hello, world’
+z = ‘a’
+(Variables in Java need to define their types before assign them with any values, whereas Python can directly assign variable with value for that it can automatically make variable’s type consistent with that of its assigned value) 
+In Java:
+if(TrueOrFalse){
+    …  
+    i++;
+    …  
+}
+In Python:
+if True_or_False:
+    …
+    i++
+    …
+(This shows that when coding an ‘if’ statement, a ‘for’ loop, etc. Python uses indentation to separate section whereas Java may need the use of braces)
+
+Python also has its own GUI function. However, it is not as powerful as Java or C languages because of its lack of variety so that nowadays most big games and popular applications are programmed in C or Java. Python is only used to make applications and games within its restricted functions.
