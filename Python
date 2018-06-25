@@ -9,8 +9,8 @@ In Python:  print(‘Hello, world’)
 (When writing a line of code, Java requires a semicolon at the end whereas Python prefers to do nothing. This is because Python would recognize a line of code by finding the Enter mark and indentation. By using indentation as a method to separate code in different sections, Python thereby improves the coding structure and its readability.)
 In Java:   
 int x = 1;
-String y = “Hello, world”¬¬¬
-char z = ‘a’
+String y = “Hello, world”;
+char z = ‘a’;
 
 In Python: 
 x = 1
